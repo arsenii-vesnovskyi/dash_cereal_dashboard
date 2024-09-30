@@ -3,6 +3,7 @@
 This repository contains all the files needed to run the Dash application about the Cereals food category.
 
 **Project Description**
+
 Nutritional Analysis Dashboard is a prototype of an interactive tool, which is designed to provide insights into the nutritional content of cereal products and encourage data-driven food decisions.
 
 Tab 0: Dashboard and Data Description
@@ -22,6 +23,7 @@ Tab 3: Clustering and Suggestions
 This tab provides insights into product clustering based on the nutritional attributes. You can select dimensions for the X and Y axes and visualize the clustering patterns using a scatter plot. Additionally, you can search for specific products using the name search bar to narrow down the search and finally selecting the needed product from a dropdown. The dashboard will display the top-3 products that are similar to the selected one in terms of nutritional values and have the same or even higher NutriScore grade. This feature allows you to discover alternative products with equal or higher health ratings compared to your current product of choice.
 
 **File Tree**
+
 Folder "assets":
   * image.jpg - background image
   * styles.css - css styles for the web page
